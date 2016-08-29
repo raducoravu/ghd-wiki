@@ -23,7 +23,7 @@ To obtain that value, you need to go to *GitHub* and under *Settings* there is a
 
 
 ##Note
-Creating a new file requires you to paste the initial content of a topic, which you can fined below:
+Creating a new file requires you to paste the initial content of a topic, which you can find below:
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
